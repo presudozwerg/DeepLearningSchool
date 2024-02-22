@@ -8,7 +8,7 @@ This repository contains completed homeworks and projects from [Deep Learning Sc
 | 02 | Linear models | SGD, logistic regression implementation| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/presudozwerg/DeepLearningSchool/blob/main/1_semester/%5Bh02%5D_linear_models_fall_2021.ipynb) | ru |
 | 03 | Kaggle competition | Catboost for telecom customer churn prediction | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/presudozwerg/DeepLearningSchool/blob/main/1_semester/%5Bh03%5D_hw_kaggle.ipynb) | ru |
 | 04 | Dense and convolutional NN | Dense NN for classification of moons dataset, CNN for MNIST dataset | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/presudozwerg/DeepLearningSchool/blob/main/1_semester/%5Bh04%5D_dense_and_convolutional_nn.ipynb) | ru |
-| 05 | Image classification | | | |
+| 05 | Image classification | Simple CNN vs pretrained ResNet-50 with augmentation in Simpsons classification | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/presudozwerg/DeepLearningSchool/blob/main/1_semester/%5Bh05%5D_simpsons-classificaton.ipynb) | ru |
 | 06 | Semantic segmentation | |  | |
 | 07 | Autoencoders | | | |
 | 08 | GANs | | | |
