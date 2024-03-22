@@ -1,6 +1,6 @@
 This repository contains completed homeworks and projects from [Deep Learning School](https://dls.samcs.ru/) in MIPT.
 
-**Semester 1**
+# Semester 1
 
 | Homework   | Topic                | Brief content | Colab link            | Skills | Language |
 |:----------:|:--------------------:|:-------------:|:---------------------:|:--------:|:--------:|
@@ -16,7 +16,7 @@ This repository contains completed homeworks and projects from [Deep Learning Sc
 **Final project:** Face Recognition [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/girafe-ai/ml-course/blob/22f_basic/week0_05_trees_and_ensembles/practice0_05_decision_trees.ipynb)
 https://colab.research.google.com/drive/1hZNeTYytCxh7hBISiZCalBXas8TIE-Xi
 
-**Semester 2**
+# Semester 2
 | Homework   | Topic                | Brief content | Colab link            | Skills | Language |
 |:----------:|:--------------------:|:-------------:|:---------------------:|:--------:|:--------:|
 | 01 | Simple embeddings | Stackoverflow questions ranking: Word2Vec vs pretrained embeddings | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/presudozwerg/DeepLearningSchool/blob/main/2_semester/%5Bh01%5D_simple_embeddings.ipynb) | Word2Vec, Spacy, nltk.tokenize | ru |
