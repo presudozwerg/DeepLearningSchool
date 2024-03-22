@@ -9,7 +9,7 @@ This repository contains completed homeworks and projects from [Deep Learning Sc
 | 03 | Kaggle competition | Catboost for telecom customer churn prediction | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/presudozwerg/DeepLearningSchool/blob/main/1_semester/%5Bh03%5D_hw_kaggle.ipynb) | sklearn.pipeline, LogisticRegression, CatBoostClassifier | ru |
 | 04 | Dense and convolutional NN | Dense NN for classification of moons dataset, CNN for MNIST dataset | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/presudozwerg/DeepLearningSchool/blob/main/1_semester/%5Bh04%5D_dense_and_convolutional_nn.ipynb) | torch.utils.data (Dataset, Dataloader), torch.nn (Linear, Conv2d, MaxPool2d), CNN (LeNet) | ru |
 | 05 | Image classification | Simple CNN vs pretrained ResNet-50 with augmentation in Simpsons classification | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/presudozwerg/DeepLearningSchool/blob/main/1_semester/%5Bh05%5D_simpsons-classificaton.ipynb) | torchvision.transforms, transfer learning (fine-tuning ResNet50) | ru |
-| 06 | Semantic segmentation | |  | sks | ru |
+| 06 | Semantic segmentation | Comparing SegNet and U-Net architectures for medical segmentation | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/presudozwerg/DeepLearningSchool/blob/main/1_semester/%5Bh06%5D_semantic_segmentation.ipynb) | SegNet, U-Net, IoU metric, losses (bce, dice, focal, boundary) | ru |
 | 07 | Autoencoders | | | sks | ru |
 | 08 | GANs | | | sks | ru |
 
