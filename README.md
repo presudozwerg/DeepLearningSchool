@@ -21,4 +21,5 @@ https://github.com/presudozwerg/DeepLearningSchool/blob/main/1_semester/%5Bproje
 |:----------:|:--------------------:|:-------------:|:---------------------:|:--------:|:--------:|
 | 01 | Simple embeddings | Stackoverflow questions ranking: Word2Vec vs pretrained embeddings | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/presudozwerg/DeepLearningSchool/blob/main/2_semester/%5Bh01%5D_simple_embeddings.ipynb) | Word2Vec, Spacy, nltk.tokenize | ru |
 | 02 | Neural text classification | RNN for text classification from ag_news dataset | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/presudozwerg/DeepLearningSchool/blob/main/2_semester/%5Bh02%5D_text_classification.ipynb) | nn.RNN, nn.GRU, embeddings aggregation | ru |
-| 03 | Language modeling | /TBD/ | /TBD/ | /TBD/ | ru |
+| 03 | Language modeling | Training RNN-based model on imdb dataset for language modeling task | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/presudozwerg/DeepLearningSchool/blob/main/2_semester/%5Bh03%5D_language_modeling.ipynb) | nn.LSTM, perplexity, text generation (greedy, beam-search) | ru |
+| 04 | Transformers | /TBD 15.04/ | /TBD 15.04/ | /TBD 15.04/ | ru |
